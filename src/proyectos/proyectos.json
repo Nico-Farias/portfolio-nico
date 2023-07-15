@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Cotizador criptomonedas",
+        "descripcion": "Cotizador criptomonedas creado con tailwind y javascript",
+        "url": "https://cotizar-cripto8290.netlify.app",
+        "imagen": "../../public/img/cotizadorCrito.png"
+    },
+    {
+        "id": 2,
+        "name": "App consultar clima",
+        "descripcion": "App para consultar clima creado con tailwind y javascript ",
+        "url": "https://consultaclima12.netlify.app",
+        "imagen": "../../public/img/Clima.png"
+    },
+    {
+        "id": 3,
+        "name": "GuitarLa",
+        "descripcion": "Venta de guitarras y blog de musica en creado con tailwind, next y base de datos en strapi",
+        "url": "https://guitar-la-netx-9hvzeetlf-nico-farias.vercel.app",
+        "imagen": "../../public/img/GuitarLa.png"
+    },
+    {
+        "id": 4,
+        "name": "Envio de correo",
+        "descripcion": "Formulario de correo con validacion de campos creado con tailwind y javascript",
+        "url": "https://symphonious-cat-8e4945.netlify.app",
+        "imagen": "../../public/img/Formulario-correo.png"
+    },
+    {
+        "id": 5,
+        "name": "Control de gastos",
+        "descripcion": "Control de gastos con tailwind y  React",
+        "url": "https://control-gastos97.netlify.app",
+        "imagen": "../../public/img/Presupuesto.png"
+    },
+    {
+        "id": 6,
+        "name": "Alto Libro",
+        "descripcion": "Venta de libros creado con boostrapp ,react y firebase para base de datos  ",
+        "url": "https://altolibro.netlify.app",
+        "imagen": "../../public/img/AltoLibro.png"
+    },
+    {
+        "id": 7,
+        "name": "Buscador de autos",
+        "descripcion": "Buscador de autos creado tailwind y javascript",
+        "url": "https://gilded-bavarois-13bcb3.netlify.app",
+        "imagen": "../../public/img/BuscadorAutos.png"
+    },
+    {
+        "id": 8,
+        "name": "Cotizador de prestamos",
+        "descripcion": "Cotizador de prestamos creada con tailwind y Vue",
+        "url": "https://cotizador-prestamos-online.netlify.app",
+        "imagen": "../../public/img/CotizadorPrestamos.png"
+    },
+    {
+        "id": 9,
+        "name": "Carrito de cursos online",
+        "descripcion": "Carrito de cursos online creada con tailwind y javascript",
+        "url": "https://carritodecomprasccj.netlify.app/",
+        "imagen": "../../public/img/Carritodcursos.png"
+    }
+]
